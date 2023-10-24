@@ -1,5 +1,5 @@
 async function productsList (){
-    const conexao = await fetch("https://alura-challenge-front-end-2.vercel.app/products");
+    const conexao = await fetch("https://alura-challenge-front-end-2.vercel.app/kpdz");
     const conexaoConvertida = await conexao.json();
     return { conexaoConvertida, statusConexao: conexao.status };
 }

@@ -41,3 +41,8 @@ body{
     font-family: var(--main-font);
     color:var(--color-almost-black) ;
 }
+
+.referencia {
+    background-color:"purple";
+    fonrt-family:"arial"
+    color:"red";
